@@ -1,0 +1,3 @@
+Engenharia de Sistema/Informação
+
+Análise --> Projeto --> Codificação --> Teste --> Suporte
